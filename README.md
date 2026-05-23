@@ -26,3 +26,6 @@ The population was then stratified into 6 clinical categories: Underweight, Norm
 
 ## Public Health Implications
 The findings underscore a critical public health challenge: the significant impact of modifiable lifestyle factors and maternal nutritional status on neonatal outcomes. The identified 'smoking penalty' of over 8 ounces, regardless of gestation length, suggests that prenatal smoking cessation programs could yield measurable improvements in birth weight distributions.
+
+---
+**Developed by Caroline** – *Pharmacoepidemiologist & RWE Analytics Consultant*
